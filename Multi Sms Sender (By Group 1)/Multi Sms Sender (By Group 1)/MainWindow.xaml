@@ -1,0 +1,77 @@
+﻿<Window x:Class="Multi_Sms_Sender__By_Group_1_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sms Sender (Group 1)" Height="551.319" Width="691.745" Icon="mm.ico" >
+
+
+
+
+
+
+    <Window.Background>
+        <ImageBrush ImageSource="/icon/ground.jpg" TileMode="FlipXY"   />
+    </Window.Background>
+    <Grid Margin="0,0,2,-2">
+
+
+
+        <Button x:Name="refresh"  Content="Refresh Com Port" HorizontalAlignment="Left" Margin="548,459,0,0" VerticalAlignment="Top" Width="124" RenderTransformOrigin="-0.573,0.1" Height="34" FontSize="14" FontFamily="Palatino Linotype" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" Foreground="#FFF3E8EE" Click="refresh_Click">
+            <Button.CacheMode>
+                <BitmapCache/>
+            </Button.CacheMode>
+        </Button>
+
+        <Label x:Name="aa"  Content="Avalable Connection" HorizontalAlignment="Left" Margin="5,478,0,0" VerticalAlignment="Top" Width="155" FontSize="14" FontWeight="Bold" Foreground="#FF031704" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.445"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="Connectionlabel" Content="" HorizontalAlignment="Left" Margin="179,482,0,0" VerticalAlignment="Top" Width="332" Foreground="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" FontFamily="Segoe UI Symbol"/>
+        <Button VerticalContentAlignment="Bottom" Content="Multi Sms" HorizontalAlignment="Left" Margin="345,155,0,0" VerticalAlignment="Top" Width="133" Height="135" FontSize="18" BorderBrush="{x:Null}" Foreground="#FF361AE6" Click="Button_Click_2" FontWeight="Bold">
+            <Button.Background>
+                <ImageBrush Stretch="None" ImageSource="icon/sms-alt-icon.png"/>
+            </Button.Background>
+        </Button>
+        <Button VerticalContentAlignment="Bottom" Content="OutBox" HorizontalAlignment="Left" Margin="209,295,0,0" VerticalAlignment="Top" Width="131" Height="140" FontSize="18" FontFamily="Nirmala UI" BorderBrush="{x:Null}" Foreground="#FF361AE6" Click="Button_Click_3" FontWeight="Bold">
+            <Button.Background>
+                <ImageBrush Stretch="None" ImageSource="icon/1439327262_messages.png"/>
+            </Button.Background>
+        </Button>
+        <Button VerticalContentAlignment="Bottom" Content="Single Sms" HorizontalAlignment="Left" Margin="199,155,0,0" VerticalAlignment="Top" Width="141" Height="135" FontSize="18" BorderBrush="{x:Null}" Foreground="#FF361AE6" Click="Button_Click" FontWeight="Bold">
+
+
+
+            <Button.Background>
+                <ImageBrush ImageSource="icon/sms-green-icon.png" TileMode="Tile" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <Button VerticalContentAlignment="Bottom" Content="Quit" HorizontalAlignment="Left" Margin="346,293,0,0" VerticalAlignment="Top" Width="132" RenderTransformOrigin="0.5,0.5" Height="148" FontSize="18" FontFamily="Nirmala UI" BorderBrush="{x:Null}" Foreground="#FF361AE6" Click="Button_Click_1" FontWeight="Bold">
+            <Button.Background>
+                <ImageBrush Stretch="None" ImageSource="icon/inside-logout-icon.png"/>
+            </Button.Background>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.285"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="aboutus"  Content="About Us" HorizontalAlignment="Left" Margin="548,401,0,0" VerticalAlignment="Top" Width="124" RenderTransformOrigin="-0.573,0.1" Height="34" FontSize="14" FontFamily="Palatino Linotype" Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" Foreground="#FF492C3C" Click="about_click">
+            <Button.CacheMode>
+                <BitmapCache/>
+            </Button.CacheMode>
+        </Button>
+
+
+
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,22 @@
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\bin\Debug\Multi Sms Sender (By Group 1).exe.config
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\bin\Debug\Multi Sms Sender (By Group 1).exe
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\bin\Debug\Multi Sms Sender (By Group 1).pdb
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).csprojResolveAssemblyReference.cache
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\MainWindow.baml
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\MainWindow.g.cs
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\App.g.cs
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1)_MarkupCompile.cache
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).g.resources
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi_Sms_Sender__By_Group_1_.Properties.Resources.resources
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).csproj.GenerateResource.Cache
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).exe
+c:\users\creative\documents\visual studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).pdb
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\history.baml
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\multisms.baml
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\singlesms.baml
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\history.g.cs
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\multisms.g.cs
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\singlesms.g.cs
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\Multi Sms Sender (By Group 1).csproj.ResolveComReference.cache
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\AboutUs.baml
+C:\Users\Creative\Documents\Visual Studio 2013\Projects\Multi Sms Sender (By Group 1)\Multi Sms Sender (By Group 1)\obj\Debug\AboutUs.g.cs

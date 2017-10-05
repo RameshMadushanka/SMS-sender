@@ -1,0 +1,1 @@
+This is SMS sending application through pc dongle.
